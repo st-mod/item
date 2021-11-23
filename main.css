@@ -2,3 +2,8 @@ div.unit.item {
     display: grid;
     grid-template-columns: max-content auto;
 }
+
+div.unit.item>div:first-child {
+    min-width: var(--length-tab);
+    text-align: right;
+}

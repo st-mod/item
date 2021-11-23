@@ -1,0 +1,4 @@
+div.unit.item {
+    display: grid;
+    grid-template-columns: max-content auto;
+}

@@ -7,3 +7,7 @@ div.unit.item>div:first-child {
     min-width: var(--length-tab);
     text-align: right;
 }
+
+div.unit.item>div:first-child::after {
+    content: " ";
+}

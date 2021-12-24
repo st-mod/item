@@ -16,7 +16,6 @@ export const item=async (unit,compiler)=>{
     element.append(mark)
     element.append(content)
     mark.append(await compiler.compileLine(first))
-    mark.append(new Text(' '))
     content.append(await compiler.compileSTDN(unit.children.slice(1)))
     return element
 }

@@ -1,6 +1,6 @@
 {
   "name": "@ddu6/item",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "A stdn module for items",
   "main": "ucs.js",
   "repository": {

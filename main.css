@@ -1,4 +1,5 @@
 div.unit.item {
+    align-items: baseline;
     display: grid;
     grid-template-columns: max-content 1fr;
 }

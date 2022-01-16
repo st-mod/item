@@ -1,13 +1,10 @@
 {css-src main.css, ucs-src ucs.js, global []}
 {item [
     []
-    test
     {item [
         (a)
-        test
         {item [
             {'ⅰ\Rarrⅱ'}
-            test
             {equation [test]}
         ]}
     ]}

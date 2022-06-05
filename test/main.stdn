@@ -1,4 +1,4 @@
-{css-src main.css, ucs-src ucs.js, global []}
+{css-src ../main.css, ucs-src ../ucs.js, global []}
 {item [
     []
     {item [

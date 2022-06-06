@@ -1,4 +1,4 @@
-{css-src ../main.css, ucs-src ../ucs.js, global []}
+{registry .., mod ., global []}
 {item [
     []
     {item [

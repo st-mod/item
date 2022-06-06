@@ -1,4 +1,4 @@
-{registry .., mod ., global []}
+{registry .., mod .., global []}
 {item [
     []
     {item [

@@ -1,4 +1,5 @@
 {registry .., mod .., global []}
+{title [Test]}
 {item [
     []
     {item [
